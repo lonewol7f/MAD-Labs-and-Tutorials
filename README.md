@@ -3,3 +3,4 @@
 
 
 * [Tutorial 4](https://github.com/lonewol7f/MAD-Labs-and-Tutorials/tree/tutorial-4)
+* [Additional Lab](https://github.com/lonewol7f/MAD-Labs-and-Tutorials/tree/additional-lab)
