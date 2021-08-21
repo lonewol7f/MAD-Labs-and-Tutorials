@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tute4</string>
+    <string name="btn_cpt">CAPTURE</string>
+    <string name="img_view">camera</string>
+</resources>
